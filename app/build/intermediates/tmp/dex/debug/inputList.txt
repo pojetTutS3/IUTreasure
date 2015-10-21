@@ -1,0 +1,5 @@
+C:\Users\i141311\AndroidStudioProjects\IUTreasure\app\build\intermediates\classes\debug
+C:\Users\i141311\AndroidStudioProjects\IUTreasure\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-6901bc3d5999c5dc3aceac8794c627762a193718.jar
+C:\Users\i141311\AndroidStudioProjects\IUTreasure\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-b6f1c54164c599963c654c41a43befee6ca9c4a7.jar
+C:\Users\i141311\AndroidStudioProjects\IUTreasure\app\build\intermediates\pre-dexed\debug\classes-9de37f646c37dd55495c18e95e0dd7b36ed3cc9e.jar
+C:\Users\i141311\AndroidStudioProjects\IUTreasure\app\build\intermediates\pre-dexed\debug\classes-4e8ee7fe8f89ce5ce9e83c1945e4133da8150bf5.jar

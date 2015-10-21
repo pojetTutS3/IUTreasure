@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">IUTreasure</string>
+
+
+    <string name="identifiant">Identifiant</string>
+    <string name="motDePasse">Mot de Passe</string>
+    <string name="txtConnexion">Connexion</string>
+    <string name="txtJouer">Jouer</string>
+    <string name="txtAide">Aide</string>
+    <string name="txtDeco">Déconnexion</string>
+    <string name="retour">Retour</string>
+
+    <string name="position">Votre position : </string>
+    <string name="toFind">Trouvez celle-ci : </string>
+    <string name="trouve">Position Trouvé!</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="Ouverture">Ouvert</string>
+    <string name="Fermeture">Fermer</string>
+
+    <string name="textDescrAide">Si vous souhaitez jouer bah jouer, si vous galerer cf l'aide... \n Yes I'm a fucking troll.
+    </string>
+
+    <string-array name="nom_items_drawer">
+        <item>Aide</item>
+        <item>Options</item>
+        <item>Déconnexion</item>
+
+    </string-array>
+</resources>
