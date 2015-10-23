@@ -30,8 +30,8 @@ public class ConnexionActivity extends ActionBarActivity {
             @Override
             public void onClick(View v) {
 
-                Intent goToMenu = new Intent(ConnexionActivity.this,MainMenuActivity.class);
-                startActivity(goToMenu);
+                Intent goToGame = new Intent(ConnexionActivity.this,GameActivity.class);
+                startActivity(goToGame);
 
             } });
 

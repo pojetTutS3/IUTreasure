@@ -31,6 +31,8 @@
             android:name="com.example.i141311.iutreasure.MainMenuActivity"
             android:label="IUTreasure"
             android:noHistory="true" />
+        <activity android:name="com.example.i141311.iutreasure.AideActivity" >
+        </activity>
     </application>
 
 </manifest>

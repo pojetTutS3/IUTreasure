@@ -21,8 +21,7 @@
     <string name="Ouverture">Ouvert</string>
     <string name="Fermeture">Fermer</string>
 
-    <string name="textDescrAide">Si vous souhaitez jouer bah jouer, si vous galerer cf l'aide... \n Yes I'm a fucking troll.
-    </string>
+    <string name="textDescrAide">Si vous souhaitez jouer bah jouer, si vous galerer cf l\'aide \n Yes I\'m a fucking troll. </string>
 
     <string-array name="nom_items_drawer">
         <item>Aide</item>

@@ -186,9 +186,7 @@
     <string name="motDePasse">Mot de Passe</string>
     <string name="position">Votre position : </string>
     <string name="retour">Retour</string>
-    <string name="textDescrAide">
-        Si vous souhaitez jouer bah jouer, si vous galerer cf l'aide... \n Yes I'm a fucking troll.
-    </string>
+    <string name="textDescrAide">Si vous souhaitez jouer bah jouer, si vous galerer cf l\'aide \n Yes I\'m a fucking troll. </string>
     <string name="toFind">Trouvez celle-ci : </string>
     <string name="trouve">Position Trouvé!</string>
     <string name="txtAide">Aide</string>
